@@ -1,0 +1,6 @@
+C:\Users\User\RiderProjects\Korop_AI_5\Korop_AI_5\bin\Debug\Korop_AI_5.exe
+C:\Users\User\RiderProjects\Korop_AI_5\Korop_AI_5\bin\Debug\Korop_AI_5.pdb
+C:\Users\User\RiderProjects\Korop_AI_5\Korop_AI_5\obj\Debug\Korop_AI_5.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\Korop_AI_5\Korop_AI_5\obj\Debug\Korop_AI_5.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Korop_AI_5\Korop_AI_5\obj\Debug\Korop_AI_5.exe
+C:\Users\User\RiderProjects\Korop_AI_5\Korop_AI_5\obj\Debug\Korop_AI_5.pdb
